@@ -1,0 +1,26 @@
+omelet
+3
+agg | 2 | pieces
+milk | 100 | milliliters
+tomato | 2 | pieces
+
+duck-peking
+4
+duck | 1 | pieces
+water | 2 | spoon
+honey | 3 | tablespoon
+soy sauce | 60 | milliliters
+
+baked potato
+3
+potato | 1 | kg
+garlic | 3 | lobules
+cheese | 100 | gr
+
+fachitos
+5
+beef | 500 | gr
+pepper is sweet | 1 | pieces
+pita | 2 | pieces
+vinegar | 1 | tablespoon
+tomato | 2 | pieces
