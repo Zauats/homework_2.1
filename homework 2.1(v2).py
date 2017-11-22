@@ -6,10 +6,10 @@ def cook_book_programm():
             dish = line.strip()
             f.readline()
             for line in f:
-                if line != "\n":
-                    product = line.strip().split(" | ")
-                else:
+                line = line.strip()
+                if not line:
                     break
+                product = line.strip().split(" | ")
                 cook_book[dish].append({'ingridient_name': product[0], 'quantity': int(product[1]), 'measure': product[2]})
     return cook_book
 
